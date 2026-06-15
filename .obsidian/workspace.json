@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "c7de029d55510f8c",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1555a92ebe8b8fde",
+  "active": "56f8a556c11b0615",
   "lastOpenFiles": [
     "新建文件夹",
     "未命名",
