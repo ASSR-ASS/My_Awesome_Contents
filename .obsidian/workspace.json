@@ -18,7 +18,7 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CI_CD测试"
+              "title": "新标签页"
             }
           }
         ]
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "330e028527e88668",
+  "active": "1555a92ebe8b8fde",
   "lastOpenFiles": [
     "MACpages",
     "新建文件夹",
