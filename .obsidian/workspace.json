@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MACpages/Test Folder/CI_CD测试.md",
+                "file": "Test Folder/CI_CD测试.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,8 +198,8 @@
   "lastOpenFiles": [
     "MACpages",
     "新建文件夹",
-    "MACpages/欢迎.md",
-    "MACpages/Test Folder/CI_CD测试.md",
-    "MACpages/Test Folder"
+    "欢迎.md",
+    "Test Folder/CI_CD测试.md",
+    "Test Folder"
   ]
 }
