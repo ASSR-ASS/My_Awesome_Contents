@@ -11,14 +11,10 @@
             "id": "56f8a556c11b0615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MACpages/Test Folder/CI_CD测试.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CI_CD测试"
+              "title": "新标签页"
             }
           }
         ]
@@ -194,12 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f8a556c11b0615",
+  "active": "1555a92ebe8b8fde",
   "lastOpenFiles": [
-    "MACpages",
+    "Contents/欢迎.md",
+    "Contents/Test Folder/CI_CD测试.md",
+    "Contents/Test Folder",
+    "Contents",
     "新建文件夹",
     "欢迎.md",
     "Test Folder/CI_CD测试.md",
-    "Test Folder"
+    "Test Folder",
+    "MACpages/欢迎.md",
+    "MACpages/Test Folder/CI_CD测试.md",
+    "act.exe",
+    "MACpages",
+    "MACpages/Test Folder"
   ]
 }
