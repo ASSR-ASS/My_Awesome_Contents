@@ -34,7 +34,7 @@ jobs:
 
       - name: Build Site
         # Replace the URL below with your actual GitHub Pages URL
-        run: ./kiln generate --url "https://ASSR-ASS.github.io/My_Awesome_Contents"
+        run: ./kiln generate --url "https://ASSR-ASS.github.io/My_Awesome_Contents/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
