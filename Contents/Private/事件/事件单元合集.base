@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: 事件组
+    filters:
+      and:
+        - "!EventLevel.isEmpty()"
+        - file.ext != "base"
+    order:
+      - file.name
+      - Module
+      - created
+      - ended
+      - EventLevel
+    sort: []

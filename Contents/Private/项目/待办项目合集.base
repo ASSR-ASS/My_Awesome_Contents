@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      or:
+        - file.basename.contains("Overview")
+        - file.basename.contains("WBS")
+        - "!ProjectScale.isEmpty()"
+        - "!ProjectExecTags.isEmpty()"
+    order:
+      - file.name
+      - ProjectExecTags
+      - ProjectScale
+      - file.path
+    sort:
+      - property: ProjectExecTags
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.ProjectScale: 135

@@ -1,0 +1,43 @@
+{
+  "toc": {
+    "show": true,
+    "alwaysExpand": false,
+    "width": 600,
+    "position": "right",
+    "offset": 10,
+    "indicatorMode": "bar"
+  },
+  "render": {
+    "useHeadingNumber": false,
+    "numberingStartIndex": 1,
+    "skipHeading1": false,
+    "renderMarkdown": true,
+    "showWhenSingleHeading": false,
+    "hideHeadingNumberBlacklist": []
+  },
+  "tool": {
+    "useToolbar": false,
+    "showProgressBar": true,
+    "showProgressCircle": true,
+    "returnToCursor": {
+      "enabled": false,
+      "icon": "text-cursor-input"
+    },
+    "returnToTop": {
+      "enabled": false,
+      "icon": "arrow-up-to-line"
+    },
+    "returnToBottom": {
+      "enabled": false,
+      "icon": "arrow-down-to-line"
+    },
+    "jumpToNextHeading": {
+      "enabled": false,
+      "icon": "corner-right-down"
+    },
+    "jumpToPrevHeading": {
+      "enabled": false,
+      "icon": "corner-left-up"
+    }
+  }
+}

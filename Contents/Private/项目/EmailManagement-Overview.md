@@ -1,0 +1,4 @@
+---
+ProjectScale: SM
+ProjectExecTags: p
+---
