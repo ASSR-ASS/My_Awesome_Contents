@@ -77,8 +77,13 @@ kanban
 ## 版本时间线
 ```mermaid
 timeline
-	title MAW版本图   
-    section A
-    26-06-24-12-50-53 : 0.0
+    %% 完整版本名示例如下，*代表一位数字
+    %% section Cirno.Gensokyo.Touhou-Project
+    %% **-**-**-**-**-** : *.*.*-*+Cirno.Gensokyo.Touhou-Project
+    %% +及其之后内容可省略
+	title MAW版本图
+	section 
+	26-06-24- : 0.0.0-0
+
 ```
 
