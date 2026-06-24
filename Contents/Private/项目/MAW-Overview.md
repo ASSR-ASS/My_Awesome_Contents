@@ -76,29 +76,9 @@ kanban
 ---
 ## 版本时间线
 ```mermaid
-gantt
-	title MAW版本图
-    dateFormat YY-MM-DD
-    axisFormat %y-%m-%d
-    
-    section DD
-	
-    section IF
-    
-    section DC
-    
-    section AF
-    
-    section CR
-    
-    section ID
-    
-    section UI
-    
-    %% Tag: active -->future use
-	%% Tag: done -->pending
-	%% Tag: crit -->active
-	%% Tag: milestone -->version tags
-	%% Tag:  -->backup
+timeline
+	title MAW版本图   
+    section A
+    26-06-24-12-50-53 : 0.0
 ```
 

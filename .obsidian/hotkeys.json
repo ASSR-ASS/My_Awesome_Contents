@@ -1,0 +1,20 @@
+{
+  "insert-current-time": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ]
+}
