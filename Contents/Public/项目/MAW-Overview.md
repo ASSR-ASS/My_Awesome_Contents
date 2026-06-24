@@ -78,12 +78,12 @@ kanban
 ```mermaid
 timeline
     %% 完整版本名示例如下，*代表一位数字
-    %% section Cirno.Gensokyo.Touhou-Project
-    %% **-**-**-**-**-** : *.*.*-*+Cirno.Gensokyo.Touhou-Project
-    %% +及其之后内容可省略
+    %% section Lorem.Ipsum
+    %% **-**-**-**-**-** : *.*.*-*+Lorem.Ipsum
+    %% +及其之后内容应：仅由 ASCII 字母数字和连接号组成，原分隔符处理结果应该遵循驼峰命名法，首字母大写，可省略。
 	title MAW版本图
-	section 
-	26-06-24- : 0.0.0-0
+	section HouGuoyu.Ottomother
+	26-06-24-20-20-00 : 0.0.0-0
 
 ```
 
