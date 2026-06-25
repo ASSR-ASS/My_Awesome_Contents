@@ -21,3 +21,7 @@ ProjectExecTags: p
 	- [ ] 163
 	- [ ] yeah
 	- [ ] Outlook
+- [ ] 在Outlook上以IMAP协议开启QQ/yeah/163邮箱的发送邮件功能（记得检查是否同步，不同步需在电脑配置完后，2个移动端设备手动同步）
+	- [ ] QQ
+	- [ ] 163
+	- [ ] yeah
