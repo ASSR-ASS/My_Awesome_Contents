@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Public/社交文件/各社交文件版本关键点全量存档/EoMSA/并非扩列条(Essentials of my social activities).md",
+                "file": "Contents/Public/社交文件/EoMSA/并非扩列条(Essentials of my social activities).md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 264.5
   },
   "right": {
     "id": "c7de029d55510f8c",
@@ -210,11 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c0c0aecb4a6ba59",
+  "active": "330e028527e88668",
   "lastOpenFiles": [
+    "Contents/Private/社交文件/各社交文件版本关键点全量存档/EoMSA/V0：并非扩列条(Essentials of my social activities).md",
+    "Contents/Private/社交文件/各社交文件版本关键点全量存档/EoMSA",
+    "Contents/Private/社交文件/各社交文件版本关键点全量存档",
+    "Contents/Public/社交文件/各社交文件版本关键点全量存档/EoMSA/V0：并非扩列条(Essentials of my social activities).md",
+    "Contents/Public/社交文件/EoMSA/并非扩列条(Essentials of my social activities).md",
+    "Contents/Public/社交文件/各社交文件版本关键点全量存档/EoMSA/并非扩列条(Essentials of my social activities).md",
+    "Contents/Public/社交文件/EoMSA",
     "Contents/Public/项目/Overview-Final Exam Failure Prevention Project.md",
     "Contents/Public/项目/MAW-Overview.md",
-    "Contents/Public/社交文件/各社交文件版本关键点全量存档/EoMSA/并非扩列条(Essentials of my social activities).md",
     "Contents/Private/项目/Overview-SeeLiveTracker.md",
     "Contents/Private/项目/Overview-Sleepy.md",
     "Contents/Private/项目/EoMSA-Overview.md",
@@ -234,9 +240,6 @@
     "Contents/Private/事件/事件链：麻烦的B站收藏夹.md",
     "Contents/Private/事件/事件链：前夜.md",
     "Contents/Private/事件/事件单元模板.md",
-    "Contents/Public/项目",
-    "Contents/Public/事件",
-    "Contents/Public/社交文件",
     "Contents/欢迎.md",
     "Contents/Test Folder/CI_CD测试.md",
     "Contents/未命名.md",
