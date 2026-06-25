@@ -1,6 +1,6 @@
 ---
 ProjectScale: ML
-ProjectExecTags: m
+ProjectExecTags: pm
 ---
 ## 当前网站组件状态
 ```mermaid

@@ -1,6 +1,6 @@
 ---
 ProjectScale: SM
-ProjectExecTags: +
+ProjectExecTags: pm+
 ProjectModule:
 ---
 #### EoMSA发布
