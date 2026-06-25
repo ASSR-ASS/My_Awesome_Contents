@@ -9,11 +9,11 @@ kanban
     LocalServer["本地服务器"]@{ticket: '', priority: '', assigned: ''}
    
   DD["[DD]设计与开发工具，在搭建网站中体现想法的地方"]
-    Themes["各平台提供的主题模板"]@{ticket: 'Themes', priority: 'Low', assigned: ''}
+    Themes["各平台提供的主题模板"]@{ticket: 'Themes', priority: '', assigned: ''}
 
   DC["[DC]数据与内容层，想法在这里变成数据然后储存下来"]
-    Obsidian["My Awesome Contents"]@{ticket: 'Obsidian仓库', priority: 'Very Low', assigned: ''}
-    git_main["网页内容仓库"]@{ticket: 'MAC-repo', priority: 'High', assigned: ''}
+    Obsidian["My Awesome Contents"]@{ticket: 'Obsidian仓库', priority: '', assigned: ''}
+    git_main["网页内容仓库"]@{ticket: 'MAC-repo', priority: '', assigned: ''}
 
   AF["[AF]应用框架层，数据变成可渲染的代码"]
     Halo["Halo"]@{ticket: '', priority: '', assigned: 'Docker'}
@@ -32,7 +32,7 @@ kanban
     DNS["Dynadot+Cloudflare DNS配置"]@{ticket: '', priority: '', assigned: ''}
 
   UI["[UI]用户界面层，最终呈现"]
-    ui["用户界面"]@{ticket: '', priority: 'Low', assigned: ''}
+    ui["用户界面"]@{ticket: '', priority: '', assigned: ''}
 
 	%% priority: 'Very High' --> Planned
 	%% priority: 'High' --> Installed
