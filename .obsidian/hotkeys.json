@@ -16,5 +16,13 @@
       "modifiers": [],
       "key": "F9"
     }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }
