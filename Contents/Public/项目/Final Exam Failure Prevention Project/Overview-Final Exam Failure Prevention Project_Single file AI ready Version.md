@@ -1,7 +1,7 @@
 ---
-ProjectExecTags: i
+ProjectExecTags: Important
 ProjectScale: L
-ProjectModule: RSA-RSA
+ProjectModule: Learning/Career building
 ---
 ## 复习总目标
 只求**通过考试**，不求对知识点的完全掌握。
@@ -77,3 +77,5 @@ ProjectModule: RSA-RSA
 ### 财政学
 
 ### 微观经济学
+
+
