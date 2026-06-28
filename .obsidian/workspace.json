@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Public/社交文件/EoMSA/并非扩列条(Essentials of my social activities).md",
+                "file": "Contents/Public/事件/辩论赛文本存档2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "并非扩列条(Essentials of my social activities)"
+              "title": "辩论赛文本存档2"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "2c0c0aecb4a6ba59",
   "lastOpenFiles": [
+    "Contents/Public/事件/辩论赛文本存档.md",
+    "Contents/Public/事件/辩论赛文本存档2.md",
+    "Contents/Public/社交文件/EoMSA/并非扩列条(Essentials of my social activities).md",
     "Contents/Public/项目/Final Exam Failure Prevention Project/Overview-Final Exam Failure Prevention Project_Single file AI ready Version.md",
     "Contents/Public/项目/Final Exam Failure Prevention Project/Overview-Final Exam Failure Prevention Project.md",
     "Contents/Public/项目/Final Exam Failure Prevention Project/1B34F33BEE8A282F0B731207D3F714D0.jpg",
@@ -210,7 +213,6 @@
     "Contents/Private/项目/EmailManagement-Overview.md",
     "Contents/Private/项目/Overview-SeeLiveTracker.md",
     "Contents/Private/项目/Overview-Sleepy.md",
-    "Contents/Public/社交文件/EoMSA/并非扩列条(Essentials of my social activities).md",
     "Contents/Private/文档/U.A.C.F.R.NamesRepository.md",
     "Contents/Private/社交文件/各社交文件版本关键点全量存档/EoMSA/V0：并非扩列条(Essentials of my social activities).md",
     "Contents/Private/社交文件/各社交文件版本关键点全量存档/EoMSA",
@@ -231,7 +233,6 @@
     "Contents/Private/事件/事件单元模板.md",
     "Contents/欢迎.md",
     "Contents/Test Folder/CI_CD测试.md",
-    "Contents/未命名.md",
-    "Test Folder/CI_CD测试.md"
+    "Contents/未命名.md"
   ]
 }
