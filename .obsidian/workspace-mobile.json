@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -170,13 +171,13 @@
   "active": "62057213318ba564",
   "lastOpenFiles": [
     "Contents/Public/事件/未命名.md",
+    "Contents/Public/项目/Final Exam Failure Prevention Project/Overview-Final Exam Failure Prevention Project_Single file AI ready Version.md",
     "Contents/Public/事件/辩论赛文本存档.md",
     "Contents/Public/事件/辩论赛文本存档2.md",
     "Contents/Public/文档/当前使用的AI平台角色.md",
     "Contents/Private/项目/Overview-SeeLiveTracker.md",
     "Contents/Public/社交文件/EoMSA/并非扩列条(Essentials of my social activities).md",
     "Contents/Public/项目/Final Exam Failure Prevention Project/Overview-Final Exam Failure Prevention Project.md",
-    "Contents/Public/项目/Final Exam Failure Prevention Project/Overview-Final Exam Failure Prevention Project_Single file AI ready Version.md",
     "Contents/Public/社交文件/EoMSA",
     "Contents/Public/项目/Final Exam Failure Prevention Project",
     "Contents/Private/项目/EmailManagement-Overview.md",
